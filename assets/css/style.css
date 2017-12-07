@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
   background-image: url("../images/psychic.jpg");
   background-size: 100%;
@@ -8,7 +8,7 @@ body {
 h1, h2, h3, p {
   color: white;
   font-family: 'Actor', Times, Times New Roman, serif;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 h3, h2, .container {
@@ -19,7 +19,7 @@ h3, h2, .container {
 background-color: transparent;
 border: 0;
 }
-=======
+
 body {
   background-image: url("../images/psychic.jpg");
   background-size: 100%;
@@ -29,7 +29,7 @@ body {
 h1, h2, h3, p {
   color: white;
   font-family: 'Actor', Times, Times New Roman, serif;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 h3, h2, .container {
@@ -40,4 +40,3 @@ h3, h2, .container {
 background-color: transparent;
 border: 0;
 }
->>>>>>> b2086144204f6ea18ea943517d67b6cdea4fcf15
